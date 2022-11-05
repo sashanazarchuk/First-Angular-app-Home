@@ -1,0 +1,27 @@
+.btn-submit {
+    padding: 4%;
+    background-color: rgb(38, 139, 255);
+    border-radius: 10px;
+    transition: all 2s;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn-submit:hover {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.order {
+    font-size: 25px;
+    display: block;
+}
+
+.card {
+    width: 20%;
+    margin: 2%;
+    padding: 1%;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px rgb(112, 112, 112);
+}
